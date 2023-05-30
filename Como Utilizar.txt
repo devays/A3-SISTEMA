@@ -1,0 +1,23 @@
+1. Tenha o Node e o MySql instalado na maquina.
+
+2. Baixe o aplicativo e abra no seu VSCODE
+
+3. Execute o arquivo crud2.sql no seu MySql, selecione linha por linha e clique no Execute (Simbolo de Raio)
+
+4. Abra a pasta backend e vá até db.js, em USER coloque o nome do seu banco de dados, por padrão é root. Em PASSWORD coloque a senha que você colocou.
+
+5. Pegue o código que está em "Novo Documento" lá no github, abra uma nova guia do SQL cole o código, selecione a linha e Execute (Simbolo de Raio)
+
+6. No seu VSCODE, com a aplicação já aberta, aperte CONTROL + J que irá abrir o terminal.
+
+7. No terminal, digite cd .\backend\ e dê um enter.
+
+8. Após isso, veja se realmente está assim "...\A3 SISTEMAS NOVA\backend>".
+
+9. Caso esteja correto, digite "npm start", se não startar digite npm install nodemon.
+
+10. Se funcionar, abra um novo terminal, digite cd .\frontend\ e dê um enter.
+
+11. Se estiver tudo correto, digite "npm start" e ele irá abrir a aplicação na página de login.
+
+12. Para logar digite um dos e-mails que está no crud2.sql e consequentemente no seu banco de dados, se ele logar está tudo correto.
